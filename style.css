@@ -1,0 +1,34 @@
+#temp_div{
+    background-color: grey;
+}
+
+#main_div{
+background-color:rgb(230, 230, 230);
+}
+
+#heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+#heading2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#heading3{
+    font-family:cursive;
+}
+
+
+.button_start{
+    width: 100px;
+   
+}
+
+.bottom_div{
+    background-color: thistle;
+}
+
+.heading4{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
